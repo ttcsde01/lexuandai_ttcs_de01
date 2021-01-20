@@ -1,0 +1,170 @@
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+D:\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+E:\Rác\TTCS-Đề 1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+E:\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+C:\Users\Win10\Desktop\DAI\TTCS-D01\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.Cache
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+C:\Users\ledai\OneDrive\Desktop\TTCS-D01_ThamKhao2\TTCS-D01_ThamKhao2\TTCS-D01\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fcapnhap.resources
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fcapnhap.resources
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fcapnhap.resources
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+C:\Users\openit\Desktop\N_TTCS_d1\N_TTCS_d1\N_TTCS\TTCS-D1\ailatrieuphu_1\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fcapnhap.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojResolveAssemblyReference.cache
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fcapnhap.resources
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+C:\Users\Win10\Desktop\DAI\hoang1808-master\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.Cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe.config
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\bin\Debug\ailatrieuphu_1.pdb
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csprojAssemblyReference.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\Interop.VBIDE.dll
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.ResolveComReference.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fcapnhap.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fmain.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fnhanthuong.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.fplay.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.finfo.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.Properties.Resources.resources
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.GenerateResource.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.csproj.CoreCompileInputs.cache
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.exe
+C:\Users\ledai\OneDrive\Desktop\hoang1808-master-Random\hoang1808-master-Random\hoang1808-master\hoang1808-master\ailatrieuphu_1\obj\Debug\ailatrieuphu_1.pdb
